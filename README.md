@@ -31,4 +31,4 @@ A responsive and visually appealing clone of the Spotify web player interface us
 Made with ❤️ by Dilip Kohar
 Feel free to connect or suggest improvements.
 
-🔗 GitHub  |  📧 Email
+github: https://github.com/dilipprajapati432
