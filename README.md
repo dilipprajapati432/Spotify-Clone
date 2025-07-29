@@ -2,6 +2,8 @@
 
 A responsive and visually appealing clone of the Spotify web player interface using **HTML** and **CSS**. This project focuses on replicating the design and layout of Spotify’s desktop UI. Perfect for showcasing front-end skills with clean structure and styling.
 
+👉 **Live Demo:** [Click here to view](https://dilipprajapati432.github.io/Spotify-Clone/)
+
 ## 🚀 Features
 
 - 🎵 Sidebar with navigation: Home, Search, Your Library  
