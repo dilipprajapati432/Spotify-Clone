@@ -46,5 +46,5 @@ A responsive and visually appealing clone of the Spotify web player interface us
 📬 Contact
 Made with ❤️ by Dilip Kohar
 Feel free to connect or suggest improvements.
-
 github: https://github.com/dilipprajapati432
+Email:prajpati.dilip4570@gmail.com
